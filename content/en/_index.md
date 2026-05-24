@@ -42,8 +42,8 @@ Jiangsu Du<sup>#</sup>, **Hongbin Zhang**<sup>#</sup>, Taosheng Wei, Zhenyi Zhen
 
 ## Awards
 
-- <span class="btn btn-sm btn-outline-secondary disabled">2020 · 2022-2025</span> **First Class Scholarship**, Sun Yat-sen University.
-- <span class="btn btn-sm btn-outline-secondary disabled">2021</span> **Huawei Intelligent Infrastructure Scholarship**, Huawei.
-- <span class="btn btn-sm btn-outline-secondary disabled">2022</span> **Guangdong Everbright Bank Scholarship**, Sun Yat-sen University.
-- <span class="btn btn-sm btn-outline-secondary disabled">2021</span> **Second Prize**, ASC Student Supercomputer Challenge.
-- <span class="btn btn-sm btn-outline-secondary disabled">2021</span> **4th Place**, ISC Student Cluster Competition.
+- <span class="btn btn-sm btn-award-date">2020 · 2022-2025</span> **First Class Scholarship**, Sun Yat-sen University.
+- <span class="btn btn-sm btn-award-date">2021</span> **Huawei Intelligent Infrastructure Scholarship**, Huawei.
+- <span class="btn btn-sm btn-award-date">2022</span> **Guangdong Everbright Bank Scholarship**, Sun Yat-sen University.
+- <span class="btn btn-sm btn-award-date">2021</span> **Second Prize**, ASC Student Supercomputer Challenge.
+- <span class="btn btn-sm btn-award-date">2021</span> **4th Place**, ISC Student Cluster Competition.

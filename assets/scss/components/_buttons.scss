@@ -12,6 +12,20 @@
   box-shadow: none;
 }
 
+.btn-award-date {
+  color: #4b6b8a;
+  background-color: #eef7ff;
+  border-color: #cfe7fb;
+  font-weight: 600;
+  cursor: default;
+}
+
+[data-dark-mode] body .btn-award-date {
+  color: #b7d7f0;
+  background-color: rgba(183, 215, 240, 0.12);
+  border-color: rgba(183, 215, 240, 0.35);
+}
+
 #navigation {
   margin-left: 1.25rem;
 }
