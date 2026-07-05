@@ -18,20 +18,20 @@ I am a fourth-year Ph.D. student in Computer Science at [Sun Yat-sen University]
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
-💥 💥 I am on the job market, seeking full-time industry positions in AI Infrastructure / LLM Serving Systems. Please feel free to contact me!  💥 💥
+💥 I am on the job market, seeking full-time industry positions in AI Infrastructure / LLM Serving Systems. Please feel free to contact me! 
 
 ## Publications
 
-<a type="button" class="btn btn-sm btn-outline-dark" href="https://www.usenix.org/conference/osdi26/presentation/du">**OSDI'26**</a> <a href="https://github.com/MLSysU/EcoServe" type="button" class="btn btn-light btn-sm">Code</a> **[Efficient LLM Serving on Commodity GPU Clusters with Data-Reduced Cross-Instance Orchestration](https://www.usenix.org/conference/osdi26/presentation/du)** <br>
-Jiangsu Du<sup>#</sup>, **Hongbin Zhang**<sup>#</sup>, Taosheng Wei, Zhenyi Zheng, Jiazhi Jiang, Kaiyi Wu, Zhiguang Chen, and Yutong Lu <br>
+**\[OSDI'26\]** **[Efficient LLM Serving on Commodity GPU Clusters with Data-Reduced Cross-Instance Orchestration](https://www.usenix.org/conference/osdi26/presentation/du)** <br>
+Jiangsu Du<sup>#</sup>, **Hongbin Zhang**<sup>#</sup>, Taosheng Wei, Zhenyi Zheng, Jiazhi Jiang, Kaiyi Wu, Zhiguang Chen, and Yutong Lu [\[Code\]](https://github.com/MLSysU/EcoServe) <br>
 
-<a type="button" class="btn btn-sm btn-outline-dark" href="https://dl.acm.org/doi/10.1145/3754598.3754621">**ICPP'25**</a> <a href="https://github.com/MLSysU/TD-Pipe" type="button" class="btn btn-light btn-sm">Code</a> **[TD-Pipe: Temporally-Disaggregated Pipeline Parallelism Architecture for High-Throughput LLM Inference](https://dl.acm.org/doi/10.1145/3754598.3754621)** <br>
-**Hongbin Zhang**, Taosheng Wei, Zhenyi Zheng, Jiangsu Du, Zhiguang Chen, Yutong Lu <br>
+**\[ICPP'25\]** **[TD-Pipe: Temporally-Disaggregated Pipeline Parallelism Architecture for High-Throughput LLM Inference](https://dl.acm.org/doi/10.1145/3754598.3754621)** <br>
+**Hongbin Zhang**, Taosheng Wei, Zhenyi Zheng, Jiangsu Du, Zhiguang Chen, Yutong Lu [\[Code\]](https://github.com/MLSysU/TD-Pipe) <br>
 
-<a type="button" class="btn btn-sm btn-outline-dark" href="https://arxiv.org/abs/2605.02189"><strong>arXiv</strong></a> <span class="btn btn-sm btn-outline-secondary disabled">Under Review</span> **[PipeMax: Enhancing Offline LLM Inference on Commodity GPU Servers](https://arxiv.org/abs/2605.02189)** <br>
+**\[arXiv\]** \[Under Review\] **[PipeMax: Enhancing Offline LLM Inference on Commodity GPU Servers](https://arxiv.org/abs/2605.02189)** <br>
 **Hongbin Zhang**, Taosheng Wei, Jiazhi Jiang, Hui Yan, Jiangsu Du, and Zhiguang Chen <br>
 
-<span class="btn btn-sm btn-outline-secondary disabled">Under Review</span> Two additional papers are currently under review. <br>
+\[Under Review\] Two additional papers are currently under review. <br>
 
 <sup># Equal contribution.</sup>
 
@@ -78,8 +78,8 @@ Jiangsu Du<sup>#</sup>, **Hongbin Zhang**<sup>#</sup>, Taosheng Wei, Zhenyi Zhen
 
 ## Awards
 
-- <span class="btn btn-sm btn-award-date">2020 · 2022-2025</span> **First Class Scholarship**, Sun Yat-sen University.
-- <span class="btn btn-sm btn-award-date">2021</span> **Huawei Intelligent Infrastructure Scholarship**, Huawei.
-- <span class="btn btn-sm btn-award-date">2022</span> **Guangdong Everbright Bank Scholarship**, Sun Yat-sen University.
-- <span class="btn btn-sm btn-award-date">2021</span> **Second Prize**, ASC Student Supercomputer Challenge.
-- <span class="btn btn-sm btn-award-date">2021</span> **4th Place**, ISC Student Cluster Competition.
+- First Class Scholarship, Sun Yat-sen University, 2020 & 2022-2025.
+- Huawei Intelligent Infrastructure Scholarship, Huawei, 2021.
+- Guangdong Everbright Bank Scholarship, Sun Yat-sen University, 2022.
+- Second Prize, ASC Student Supercomputer Challenge, 2021.
+- 4th Place, ISC Student Cluster Competition, 2021.
