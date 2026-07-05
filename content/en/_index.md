@@ -18,11 +18,11 @@ I am a fourth-year Ph.D. student in Computer Science at [Sun Yat-sen University]
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
-💥 💥 I am opening for internship!  If you are interested, please feel free to contact me.  💥 💥
+💥 💥 I am on the job market, seeking full-time industry positions in AI Infrastructure / LLM Serving Systems. Please feel free to contact me!  💥 💥
 
 ## Publications
 
-<a type="button" class="btn btn-sm btn-outline-dark" href="https://www.usenix.org/conference/osdi26/presentation/du">**OSDI'26**</a> **[Efficient LLM Serving on Commodity GPU Clusters with Data-Reduced Cross-Instance Orchestration](https://www.usenix.org/conference/osdi26/presentation/du)** <br>
+<a type="button" class="btn btn-sm btn-outline-dark" href="https://www.usenix.org/conference/osdi26/presentation/du">**OSDI'26**</a> <a href="https://github.com/MLSysU/EcoServe" type="button" class="btn btn-light btn-sm">Code</a> **[Efficient LLM Serving on Commodity GPU Clusters with Data-Reduced Cross-Instance Orchestration](https://www.usenix.org/conference/osdi26/presentation/du)** <br>
 Jiangsu Du<sup>#</sup>, **Hongbin Zhang**<sup>#</sup>, Taosheng Wei, Zhenyi Zheng, Jiazhi Jiang, Kaiyi Wu, Zhiguang Chen, and Yutong Lu <br>
 
 <a type="button" class="btn btn-sm btn-outline-dark" href="https://dl.acm.org/doi/10.1145/3754598.3754621">**ICPP'25**</a> <a href="https://github.com/MLSysU/TD-Pipe" type="button" class="btn btn-light btn-sm">Code</a> **[TD-Pipe: Temporally-Disaggregated Pipeline Parallelism Architecture for High-Throughput LLM Inference](https://dl.acm.org/doi/10.1145/3754598.3754621)** <br>
@@ -37,8 +37,44 @@ Jiangsu Du<sup>#</sup>, **Hongbin Zhang**<sup>#</sup>, Taosheng Wei, Zhenyi Zhen
 
 ## Experiences
 
-- <span class="btn btn-sm btn-outline-secondary disabled">2025.02 – Present</span> **AI Infra Research Intern**, WeChat Search, Tencent(Guangzhou).
-- <span class="btn btn-sm btn-outline-secondary disabled">2021.12 – 2022.08</span> **C++ Backend Development Intern**, ByteDance(Shenzhen).
+<div class="experience-list">
+  <div class="experience-item">
+    <div class="experience-logo-box">
+      <img src="logos/minimax.jpg" alt="MiniMax" class="experience-logo">
+    </div>
+    <div class="experience-info">
+      <p class="experience-heading">
+        <span class="experience-company">MiniMax</span><br>
+        <span class="experience-date">2026/06-Present @Shanghai</span><br>
+        <span class="experience-role">AI Infra Intern</span>
+      </p>
+    </div>
+  </div>
+  <div class="experience-item">
+    <div class="experience-logo-box">
+      <img src="logos/wechat.png" alt="WeChat" class="experience-logo">
+    </div>
+    <div class="experience-info">
+      <p class="experience-heading">
+        <span class="experience-company">Tencent</span><br>
+        <span class="experience-date">2025/02-2026/06 @Guangzhou</span><br>
+        <span class="experience-role">AI Infra Research Intern, WeChat Search</span>
+      </p>
+    </div>
+  </div>
+  <div class="experience-item">
+    <div class="experience-logo-box">
+      <img src="logos/bytedance.svg" alt="ByteDance" class="experience-logo">
+    </div>
+    <div class="experience-info">
+      <p class="experience-heading">
+        <span class="experience-company">ByteDance</span><br>
+        <span class="experience-date">2021/12-2022/08 @Shenzhen</span><br>
+        <span class="experience-role">C++ Backend Development Intern</span>
+      </p>
+    </div>
+  </div>
+</div>
 
 ## Awards
 
